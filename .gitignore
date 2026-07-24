@@ -36,5 +36,4 @@ env/
 Thumbs.db
 desktop.ini
 
-# Streamlit
-.streamlit/
+
