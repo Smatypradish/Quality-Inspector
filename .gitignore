@@ -1,0 +1,40 @@
+# Model weights (too large for GitHub)
+*.pt
+
+# YOLO training runs
+runs/
+
+# Generated dataset
+dataset/images/
+dataset/labels/
+
+# Clean sample images
+clean_images/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/

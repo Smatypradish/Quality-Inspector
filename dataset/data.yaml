@@ -1,0 +1,14 @@
+# Auto-generated YOLO dataset config
+# Generated: 2026-07-24 20:23:12
+# Samples: 250 | Failed: 0
+
+path: C:/Users/chandran/.gemini/antigravity/scratch/defect_inspector/dataset
+train: images/train
+val: images/val
+
+nc: 4
+names:
+  0: crack
+  1: scratch
+  2: rust
+  3: dent
