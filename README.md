@@ -91,8 +91,6 @@ Open **http://localhost:8501** in your browser.
 
 ## Screenshots
 
-> Launch the app and navigate through the sidebar pages: **Dashboard**, **Inspection Run**, **History**, and **Settings**.
-
 ---
 
 ## License
